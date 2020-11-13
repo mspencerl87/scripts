@@ -22,8 +22,8 @@ sudo apt install curl -y
 sudo apt install gzip -y
 sudo apt install glances -y
 sudo apt install nfs-common -y
-sudo apt install samba -y
 sudo apt install cifs-utils -y
+sudo apt install openssh-server -y
 
 # Delete the script after it has be ran
 # sudo rm obbe+desired.sh
